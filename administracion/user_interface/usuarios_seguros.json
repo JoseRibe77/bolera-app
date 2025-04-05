@@ -1,0 +1,42 @@
+{
+    "GLADYS": {
+        "sal": "28ed5948f26bf4cd84be5f6447f62c55",
+        "hash": "7eeb08135be1fcc62482d5c5ef09d47419475b96ffa1ba33a1258482a5547bd6"
+    },
+    "LETI": {
+        "sal": "c24dd88bf1440e3888748e71645754a1",
+        "hash": "034dec77c04cce5998ad76345c5a5d4278bf4fb2928e755e10e4c598627fa633"
+    },
+    "CARLOS": {
+        "sal": "eb6bf068e1077e566a40d1a6ef00f03f",
+        "hash": "b7a8d1c9e3a7b0a1e2c3f4d5a6b7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5"
+    },
+    "SOFIA": {
+        "sal": "eb6bf068e1077e566a40d1a6ef00f03f",
+        "hash": "c8b9e2f1a3d4a5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0"
+    },
+    "OMAR": {
+        "sal": "eb6bf068e1077e566a40d1a6ef00f03f",
+        "hash": "d9c0f3e2a1b4c7d8e5f2a9b6c3d0e7f4a1b8c5d2e9f6a3b0c7d4e1f8a5b2c9d0"
+    },
+    "Abigail": {
+        "sal": "eb6bf068e1077e566a40d1a6ef00f03f",
+        "hash": "e0d1f4a7b2c5d8e9f6a3b0c7d4e1f8a5b2c9d0a1b4c7d8e9f6a3b0c7d4e1f8a5"
+    },
+    "Jovanna": {
+        "sal": "eb6bf068e1077e566a40d1a6ef00f03f",
+        "hash": "f1e2a5b8c9d0a3b6c9d2e5f8a1b4c7d0e3f6a9b2c5d8e1f4a7b0c9d2e5f8a1b4"
+    },
+    "Angelica": {
+        "sal": "eb6bf068e1077e566a40d1a6ef00f03f",
+        "hash": "a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3"
+    },
+    "Antonio": {
+        "sal": "eb6bf068e1077e566a40d1a6ef00f03f",
+        "hash": "b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1b3c4"
+    },
+    "test": {
+        "sal": "eb6bf068e1077e566a40d1a6ef00f03f",
+        "hash": "c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1c4d5e6f7"
+    }
+}

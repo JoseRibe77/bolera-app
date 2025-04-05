@@ -1,0 +1,37 @@
+{
+  "login_title": {
+    "es": "Inicio de Sesión",
+    "en": "Login",
+    "fr": "Connexion"
+  },
+  "lane_management_title": {
+    "es": "Administración de Pistas",
+    "en": "Lane Management",
+    "fr": "Gestion des Pistes"
+  },
+  "configuracion_title": {
+    "es": "Configuración",
+    "en": "Configuration",
+    "fr": "Configuration"
+  },
+  "generales_button_text": {
+    "es": "Generales",
+    "en": "General",
+    "fr": "Général"
+  },
+  "opciones_pista_button_text": {
+    "es": "Opciones de Pista",
+    "en": "Lane Options",
+    "fr": "Options de Piste"
+  },
+  "opciones_usuario_button_text": {
+    "es": "Opciones de Usuario",
+    "en": "User Options",
+    "fr": "Options Utilisateur"
+  },
+  "opciones_button_text": {
+    "es": "Opciones",
+    "en": "Options",
+    "fr": "Options"
+  }
+}
