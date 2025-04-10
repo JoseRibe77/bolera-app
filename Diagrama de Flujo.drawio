@@ -1,9 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.8">
   <diagram name="Página-1" id="pDmdloUsz2vQQD7mh7ij">
-    <mxGraphModel>
+    <mxGraphModel dx="788" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <UserObject label="from pathlib import Path&#xa;&#xa;# Ruta de guardado&#xa;drawio_file_path = Path(&quot;/mnt/data/bolera_automatizada.drawio&quot;)&#xa;&#xa;# Contenido XML actualizado con estructura modular, íconos y colores profesionales (simplificado aquí por espacio)&#xa;drawio_xml_content = &quot;&quot;&quot;&#xa;  &#xa;    &#xa;      &#xa;        &#xa;        &#xa;        &#xa;&#xa;        &#xa;        &#xa;        &#xa;&#xa;        &#xa;        &#xa;        &#xa;&#xa;        &#xa;        &#xa;        &#xa;        &#xa;&#xa;        &#xa;        &#xa;        &#xa;&#xa;        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;&#xa;      &#xa;    &#xa;  &#xa;&quot;&quot;&quot;&#xa;&#xa;# Guardar archivo .drawio&#xa;drawio_file_path.write_text(drawio_xml_content)&#xa;&#xa;drawio_file_path.name  # Mostrar solo el nombre del archivo para el usuario" link="from pathlib import Path&#xa;&#xa;# Ruta de guardado&#xa;drawio_file_path = Path(&quot;/mnt/data/bolera_automatizada.drawio&quot;)&#xa;&#xa;# Contenido XML actualizado con estructura modular, íconos y colores profesionales (simplificado aquí por espacio)&#xa;drawio_xml_content = &quot;&quot;&quot;&#xa;  &#xa;    &#xa;      &#xa;        &#xa;        &#xa;        &#xa;&#xa;        &#xa;        &#xa;        &#xa;&#xa;        &#xa;        &#xa;        &#xa;&#xa;        &#xa;        &#xa;        &#xa;        &#xa;&#xa;        &#xa;        &#xa;        &#xa;&#xa;        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;&#xa;      &#xa;    &#xa;  &#xa;&quot;&quot;&quot;&#xa;&#xa;# Guardar archivo .drawio&#xa;drawio_file_path.write_text(drawio_xml_content)&#xa;&#xa;drawio_file_path.name  # Mostrar solo el nombre del archivo para el usuario" id="Ntl8MVZJVG3KZF3b0dhv-1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry width="560" height="790" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
